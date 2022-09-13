@@ -1,3 +1,3 @@
 def msg()
-    print ("Hello World")
+    print ("Hello doremon")
 msg()
